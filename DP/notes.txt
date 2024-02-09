@@ -1,0 +1,4 @@
+RULE TO WRITE RECURRENCE:
+1) express everything in terms of index
+2) explore all possibilities
+3) 

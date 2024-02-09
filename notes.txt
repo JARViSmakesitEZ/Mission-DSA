@@ -1,0 +1,2 @@
+:: check if a loop in an LL given head: tortoise and hare algo: https://www.codingninjas.com/studio/problems/cycle-detection-in-a-singly-linked-list_628974 , striver(https://www.youtube.com/watch?v=wiOo4DC5GGA)
+:: can also use tortoise and hair algorithm to find the middle of a linear linked list: it returns the second middle in case of even lenght LL
