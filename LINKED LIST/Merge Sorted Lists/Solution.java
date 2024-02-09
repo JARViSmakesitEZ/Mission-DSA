@@ -18,7 +18,7 @@ class Node {
     }
 }
 
-public class MergeTwoLists {
+public class Solution {
     public static Node mergeTwoLists(Node l1, Node l2) {
         Node dummyNode = new Node(-1);
         Node head = dummyNode;
