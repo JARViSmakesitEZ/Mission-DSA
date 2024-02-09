@@ -1,0 +1,7 @@
+:: people tend to solve dp problems in the following two ways:
+i) tabulation: bottom up dp(does not necessarily have to be from 0 to n or n to 0)
+ii) memoization: top down dp(-||-)
+
+:: draw recursion tree while solving for better visualization
+:: overlapping subproblems(the same subproblem is being calculated again and again)
+:: 
