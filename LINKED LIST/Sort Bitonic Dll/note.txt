@@ -1,0 +1,2 @@
+:: A bitonic doubly linked list is a variation of a doubly linked list that follows a specific pattern in terms of the ordering of its elements. In a bitonic doubly linked list, the elements are arranged in increasing order up to a certain point, and then in decreasing order. 
+:: The name "bitonic" comes from the mathematical term "bitonic sequence," which refers to a sequence of numbers that first increases and then decreases.
