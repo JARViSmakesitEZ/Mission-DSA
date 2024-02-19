@@ -1,0 +1,3 @@
+:: there is no order for subset for an array: [1,2,3] , [3,2,1] is also a subset ,[2,1] is also a subset , [1,2] is also a subset
+:: given: array has distinct numbers , there can be multiple answers , can return any subset
+:: 
