@@ -1,0 +1,10 @@
+:: two misplaced nodes
+:: extreme brute force: get all the values through an inorder traversal in an array , sort the array(or may be swap those two misplaced values) and then in an inorder fashion put the values in the tree
+
+INORDER
+:: two cases:
+    i) both the nodes are adjacent : so in the first sort violation itself the first one will be prev and the second one will be curr just in case we dont find the second violation at all which means both the misplaced bois are adjacent
+    ii) both the nodes are not adjacent : we will find a second violation so just go with the flow
+
+MORRIS
+:: takes O(n) time but O(1) extra space
